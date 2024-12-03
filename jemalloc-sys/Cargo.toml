@@ -1,6 +1,6 @@
 [package]
 name = "tikv-jemalloc-sys"
-version = "0.6.0+5.3.0-1-g54eaed1d8b56b1aa528be3bdd1877e59c56fa90c"
+version = "0.6.0+5.3.0-2-g521970fb2e5278b7b92061933cbacdbb9478998a"
 authors = [
     "Alex Crichton <alex@alexcrichton.com>",
     "Gonzalo Brito Gadeschi <gonzalobg88@gmail.com>",
